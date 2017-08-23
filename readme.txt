@@ -4,3 +4,5 @@ Git tracks changes of files.
 合并提交
 
 branch practice
+
+Creating a new branch is quick & simple.
